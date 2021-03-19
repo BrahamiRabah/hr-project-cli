@@ -19,7 +19,7 @@ $ hr --format=csv --path=path/to/users.csv
 To install the package after you've cloned the repository, you'll want to run the following command from within the project directory:
 
 ```
-$ pip install --user -e .
+$ pip install --user -e
 ```
 
 ## Preparing for Development
